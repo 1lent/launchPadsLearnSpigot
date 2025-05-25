@@ -1,0 +1,4 @@
+name: launchpadLearnSpigot
+version: '1.0'
+main: com.lent.launchpadLearnSpigot.LaunchpadLearnSpigot
+api-version: '1.20'
